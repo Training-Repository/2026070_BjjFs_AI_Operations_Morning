@@ -23,7 +23,7 @@ I am a [YOUR ROLE] at [COMPANY/CONTEXT].
 I need to [WHAT YOU WANT TO DO].
 My audience is [WHO WILL READ THE OUTPUT].
 Write me a detailed, structured Copilot prompt I can use to complete this task.
-The prompt should specify: role, task, context, output format, and tone.
+The prompt should specify: role, task, context, constraints, output format, and tone.
 ```
 
 ---
